@@ -76,7 +76,6 @@
 ### 📫 Contact
 
 - *Email*: aswinjnvk2004@gmail.com  
-- *DOB*: 27/02/2004  
 - *LinkedIn*: [linkedin.com/in/aswinvijayan](https://linkedin.com/in/aswinvijayan)  
 - *GitHub*: [github.com/aswinvijayan04](https://github.com/aswinvijayan04)  
 
